@@ -2,7 +2,7 @@
 
 ### “In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists.” ~Eric Hoffer
 
-- ⚡ I’m an open-source enthusiast and intersted in Artificial Intelligence. In my free time, I like to explore the realm of machine learning. 
+- ⚡ I’m an open-source enthusiast and emphasis on Deep Learning, Machine Learning, Computer Vision and NLP. 
 - 🌱 I’m currently learning advance deep learning(Research Level). 
 - 🔭 I’m currently working on an open problem, `Covering Points with Pairs of Concentric Disks`(NP-Hard). My AIM is to approximate the solution.   
 
