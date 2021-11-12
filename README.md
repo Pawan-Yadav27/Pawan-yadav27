@@ -4,7 +4,7 @@
 
 - ⚡ I’m an open-source enthusiast and emphasis on Deep Learning, Machine Learning, Computer Vision and NLP. 
 - 🌱 I’m currently learning advance deep learning(Research Level). 
-- 🔭 I’m currently working on an open problem, `Covering Points with Pairs of Concentric Disks`(NP-Hard). My AIM is to approximate the solution.   
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
